@@ -2,8 +2,8 @@
 
 ## Completed Projects
 
-1. [x] FizzBuzz
-2. [] Pi Nth
-3. [] E Nth
-4. [] Fibonnaci Nth
-5. [] Prime Sieve Nth
+[x] FizzBuzz
+[] Pi Nth
+[] E Nth
+[] Fibonnaci Nth
+[] Prime Sieve Nth
