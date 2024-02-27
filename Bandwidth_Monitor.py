@@ -37,7 +37,7 @@ def plot_bandwidth_report(timestamps, data):
     plt.xticks(rotation=45)
     plt.grid(True)
     plt.tight_layout()
-    plt.save("bandwidth_usage.png")
+    plt.savefig("bandwidth_usage.png")
     plt.show()
 
 def main():
