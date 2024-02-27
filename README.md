@@ -11,3 +11,4 @@
 - Collatz Conjecture
 - Palindrome
 - Fast Exponent
+- Inventory System
