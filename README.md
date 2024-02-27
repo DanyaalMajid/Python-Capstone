@@ -19,3 +19,4 @@
 - Sorting (Merge/Bubble)
 - Shapes (Diamond, Rectangle, Circle, Triangle)
 - Sort Utility
+- Code Snippets
