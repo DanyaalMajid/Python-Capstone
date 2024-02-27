@@ -6,5 +6,5 @@
 - Pi Nth
 - E Nth
 - Fibonnaci Nth
-- 
+- Coin Flip
 - Prime Sieve Nth
