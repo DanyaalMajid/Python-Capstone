@@ -8,3 +8,4 @@
 - Fibonnaci Nth
 - Coin Flip
 - Prime Sieve Nth
+- Collatz Conjecture
