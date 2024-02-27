@@ -20,9 +20,9 @@ class Coin:
         self.sequence.append(result)
 
     def print_sequence(self):
-        print("The Current Sequence Is:")
+        print("The Current Sequence Is:\n")
         for outcome in self.sequence:
-            print(outcome + "\n")
+            print(outcome)
     
     def print_count(self):
         print(f"The Number of Heads & Tails Are:\nHeads: {self.heads}\nTails: {self.tails}")
@@ -31,27 +31,25 @@ class Coin:
 def main():
     coin = Coin()
 
-    choice = 0
     while True:
-        while choice not in ["1", "2", "3"]:
-            choice = input("Select An Option:\n1. Flip Coin\n2. Show Sequence\n3. Show Flip Count\n\n>>> ")
+        choice = input("\nSelect An Option:\n1. Flip Coin\n2. Show Sequence\n3. Show Flip Count\n4. Exit\n\n>>> ")
         
         if choice == "1":
             coin.flip_coin()
             coin.print_count()
-            break
         
         elif choice == "2":
             coin.print_sequence()
-            break
 
         elif choice == "3":
             coin.print_count()
+
+        elif choice == "4":
+            print("Exiting...")
             break
 
         else:
             print("Invalid Input, Try Again.")
-            break
 
 if __name__ == "__main__":
     main()
