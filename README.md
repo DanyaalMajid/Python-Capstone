@@ -16,3 +16,4 @@
 - Weather
 - Factorial (Recursive/Iterative)
 - Vigenere Cipher
+- Sorting (Merge/Bubble)
