@@ -27,3 +27,4 @@
 23. Text to PDF
 24. ATM
 25. Unit Converter
+26. Happy Numbers
