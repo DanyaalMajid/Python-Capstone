@@ -14,3 +14,4 @@
 - Inventory System
 - Atomic Time
 - Weather
+- Factorial (Recursive/Iterative)
