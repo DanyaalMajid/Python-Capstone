@@ -21,10 +21,12 @@ def test():
     text_to_pdf(text, "lorem_ipsum.pdf")
 
 def main():
+    test()
     file = input("Enter the name of the file: ")
     with open(file, "r") as f:
         text = f.read()
     text_to_pdf(text, "output.pdf")
 
-
+if __name__ == "__main__":
+    main()
     
