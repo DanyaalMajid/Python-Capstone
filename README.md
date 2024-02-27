@@ -9,3 +9,4 @@
 - Coin Flip
 - Prime Sieve Nth
 - Collatz Conjecture
+- Palindrome
