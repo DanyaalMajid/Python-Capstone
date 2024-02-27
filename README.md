@@ -10,3 +10,4 @@
 - Prime Sieve Nth
 - Collatz Conjecture
 - Palindrome
+- Fast Exponent
